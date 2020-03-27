@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "wx_central_control",
+    "script": "production.js",
+    "cwd": "/Users/zhuyuqian/wx_central_control",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
